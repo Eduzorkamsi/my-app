@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Eduzorkamsi/my-app.git/static/css/main.d827332f.chunk.css",
+    "main.js": "/Eduzorkamsi/my-app.git/static/js/main.7f927a81.chunk.js",
+    "main.js.map": "/Eduzorkamsi/my-app.git/static/js/main.7f927a81.chunk.js.map",
+    "runtime-main.js": "/Eduzorkamsi/my-app.git/static/js/runtime-main.73ebd1d4.js",
+    "runtime-main.js.map": "/Eduzorkamsi/my-app.git/static/js/runtime-main.73ebd1d4.js.map",
+    "static/js/2.1b0b6b68.chunk.js": "/Eduzorkamsi/my-app.git/static/js/2.1b0b6b68.chunk.js",
+    "static/js/2.1b0b6b68.chunk.js.map": "/Eduzorkamsi/my-app.git/static/js/2.1b0b6b68.chunk.js.map",
+    "index.html": "/Eduzorkamsi/my-app.git/index.html",
+    "precache-manifest.676d5cfd1beaba0c90459bf9445d9fe1.js": "/Eduzorkamsi/my-app.git/precache-manifest.676d5cfd1beaba0c90459bf9445d9fe1.js",
+    "service-worker.js": "/Eduzorkamsi/my-app.git/service-worker.js",
+    "static/css/main.d827332f.chunk.css.map": "/Eduzorkamsi/my-app.git/static/css/main.d827332f.chunk.css.map",
+    "static/js/2.1b0b6b68.chunk.js.LICENSE.txt": "/Eduzorkamsi/my-app.git/static/js/2.1b0b6b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73ebd1d4.js",
+    "static/js/2.1b0b6b68.chunk.js",
+    "static/css/main.d827332f.chunk.css",
+    "static/js/main.7f927a81.chunk.js"
+  ]
+}
